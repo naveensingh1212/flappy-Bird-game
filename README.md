@@ -1,5 +1,5 @@
 
-#Flappy Bird Game
+Flappy Bird Game
 Welcome to the Flappy Bird Game, a fun and challenging browser-based game where you control a bird and navigate through a series of pipes without crashing! This project is built using JavaScript, HTML, and CSS.
 
 Features
